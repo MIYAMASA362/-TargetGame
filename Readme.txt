@@ -1,0 +1,6 @@
+この時期にUbisoftのTomClacy`s TheDivisionというゲームに夢中になって
+Cameraの操作をそのゲームを参考にして試行錯誤した作品です。
+
+Unityを模したフレームワークについてもこの時期に考え始め、
+デザインパターンやEntityComponentSystemなどの事についても調べ始め、
+内容の読解に苦労していた時に作った作品です。
